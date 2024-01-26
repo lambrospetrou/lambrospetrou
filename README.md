@@ -2,7 +2,7 @@
 
 Senior Software Engineer at DataDog. Past: Amazon/AWS, Meta/WhatsApp.
 
-- [I can prepare you for Big Tech software interviews](https://www.lambrospetrou.com/consulting/?ref=github-profile) 🎓
+- [I can prepare you for Big Tech software interviews with 1:1 mock interviews](https://www.lambrospetrou.com/consulting/?ref=github-profile) 🎓
 - [Read my articles 📰](https://www.lambrospetrou.com/articles/?ref=github-profile)
 - [Subscribe to my newsletter](https://www.lambrospetrou.com/newsletter/?ref=github-profile)
 - [Follow my tweets 🐤](https://twitter.com/lambrospetrou)
