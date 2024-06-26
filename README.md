@@ -2,7 +2,7 @@
 
 Senior Software Engineer at DataDog. Past: Amazon/AWS, Meta/WhatsApp.
 
-Check out my new product for automating your website and API testing using plain text scripts: [Skybear.NET](https://www.skybear.net)
+Check out [Skybear.NET](https://www.skybear.net), my product for automating Synthetics API tests using plain text scripts.
 
 - [I can prepare you for Big Tech software interviews with 1:1 mock interviews](https://www.lambrospetrou.com/consulting/?ref=github-profile) 🎓
 - [Read my articles 📰](https://www.lambrospetrou.com/articles/?ref=github-profile)
