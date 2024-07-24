@@ -1,10 +1,10 @@
 ## Lambros Petrou
 
-Senior Software Engineer at DataDog. Past: Amazon/AWS, Meta/WhatsApp.
+Principal Software Engineer at Cloudflare. Past: Amazon/AWS, Meta/WhatsApp, DataDog.
 
-Check out [Skybear.NET](https://www.skybear.net), my product for automating Synthetics API tests using plain text scripts.
+Check out [Skybear.NET](https://www.skybear.net), my product for automating Synthetics HTTP API tests using plain text scripts.
 
-- [I can prepare you for Big Tech software interviews with 1:1 mock interviews](https://www.lambrospetrou.com/consulting/?ref=github-profile) 🎓
+- [I can prepare you for Big Tech software interviews with 1:1 mock interviews](https://www.lambrospetrou.com/tech-interviews/?ref=github-profile) 🎓
 - [Read my articles 📰](https://www.lambrospetrou.com/articles/?ref=github-profile)
 - [Subscribe to my newsletter](https://www.lambrospetrou.com/newsletter/?ref=github-profile)
 - [Follow my tweets 🐤](https://twitter.com/lambrospetrou)
